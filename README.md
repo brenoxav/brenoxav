@@ -1,6 +1,6 @@
-### Breno Xavier - @brenoxav
+### @brenoxav
 ---
-🌱 I’m currently learning ...
+:milky_way: I’m currently learning.
 
 <!--
 **brenoxav/brenoxav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
