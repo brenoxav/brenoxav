@@ -2,11 +2,11 @@
 
 👌 I’m currently improving my skills at Microverse.
 
-👍 I’m currently learning HTML, CSS, Javascript, Ruby.
+👍 I’m currently learning Ruby & Ruby on Rails.
 
-🤝 I’m looking to collaborate on projects that promote solutions for the collective struggles of citizens of the world.
+🤝 I’m looking to collaborate on projects that promote solutions for collective problems.
 
-✌️ I’m looking for help with figuring out how to make our communities (online and offline) better.
+✌️ I’m looking for help with figuring out how to make our online and offline communities better places.
 
 <!--
 **brenoxav/brenoxav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
